@@ -1,0 +1,1 @@
+Damn Vulnerable Android App (DVAA) is an Android application which contains intentional vulnerabilities. Its purpose is to enable security professionals to test their tools and techniques legally, help developers better understand the common pitfalls of secure Android development and as an aid for students to learn about mobile application security.
